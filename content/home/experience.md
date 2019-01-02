@@ -21,16 +21,15 @@ date_format = "January 2006"
 [[experience]]
   title = "Research Software Engineer"
   company = "IBM Research Lab"
-  company_url = "http://www.research.ibm.com/"
+  company_url = "https://www.research.ibm.com/labs/india/"
   location = "Bangalore"
   date_start = "2016-07-21"
   date_end = "2018-06-01"
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  description = """ Worked as a part of Cognitive Operations and Environment Analytics at IBM Research India 
+  Research works include:
+  * Developing statistical models for soil moisture time series data as a part of Precision Agriculture project 
+
+  * Developing methods for explaining results of deep learning models in the domains of image classification and visual search .
   """
 
 +++
